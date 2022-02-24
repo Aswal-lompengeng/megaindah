@@ -191,12 +191,12 @@ exports.katalopyou =[
 ]
 
 exports.tekssalah =[
-"Salah","Bukan","Salah salah salah","Sualah",
+"𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️",
 "Selamat jawaban kamu salah","Coba lagi",
-"Hampir","Dikit lagi","Bukan bukan","Yah salah",
-"Yahaha salah","Bukan itu","No!",
-"Horeeeee!\nEh salah bukan itu","Asik salah",
-"Masih salah 😎","Bukan itu bambang"
+"𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️",
+"Yahaha salah","Bukan itu","𝐒𝐚𝐥𝐚𝐡⚠️",
+"Horeeeee!\nEh salah bukan itu","𝐒𝐚𝐥𝐚𝐡⚠️",
+"𝐒𝐚𝐥𝐚𝐡⚠️","𝐒𝐚𝐥𝐚𝐡⚠️"
 ]
 
 exports.badud =["kirara","Kirara","bot","Bot"]
