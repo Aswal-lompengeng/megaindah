@@ -46,7 +46,7 @@ Type4 = client.welcome === "type4"
 const OneMem = anu.participants.length === 1
 const onMe = !mem.includes(client.user.jid) 
 const intro = `Halo @${memNumber} \n\nNama :\nUmur :\nGender : \nAsal :\n\nSemoga Betah dan jangan lupa di isi\nAnd Following Rules Group`;
-const outro = `Asik beban grup keluar \nKena mental dia :v`
+const outro = `beban grup keluar \nTerkena Mental😂:v`
 
 const teksPromote = `Cie jadi admin :v\n@${memNumber}`;
 const teksDemote = `Yahaha kena demote\n@${memNumber}`
