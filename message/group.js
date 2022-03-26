@@ -35,7 +35,7 @@ module.exports = async(client, anu) => {
 	
 	
             const intro = `Halo ${pushname} \n\nNama : \nUmur :\nGender : \nAsal :\n\nSemoga Betah dan jangan lupa di isi\nAnd Following Rules Group`;
-            const outro = `Asik beban grup keluar \nKena mental dia :v`
+            const outro = `Beban grup keluar \nKena mental dia :v`
             
             
           const sendButImage2 = async(id, text1, desc1, gam1, but = []) => {
@@ -213,7 +213,7 @@ module.exports = async(client, anu) => {
              if(!JSON.parse(fs.readFileSync('./database/welkom.json')).includes(anu.jid)) return
              }
                            
-              teks = `Asik beban grup keluar \nKena mental dia :v`
+              teks = `Beban grup keluar \nKena mental dia :v`
               buttons = [{ buttonId: `y`, buttonText: { displayText: "Nitip gorengan" }, type: 1 }
               ];        
               sendButLocation(from, outro, copyright, ppUser, buttons)
