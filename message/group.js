@@ -34,8 +34,8 @@ module.exports = async(client, anu) => {
 	        const pushname = conts.notify || conts.vname || conts.name || PhoneNumber('+' + mem.replace('@s.whatsapp.net', '')).getNumber('international').replace(new RegExp("[()+-/ +/]", "gi"), "")
 	
 	
-            const intro = `Halo ${pushname} \n\nNama : \nUmur :\nGender : \nAsal :\n\nSemoga Betah dan jangan lupa di isi\nAnd Following Rules Group`;
-            const outro = `Beban grup keluar \nKena mental dia :v`
+            const intro = `𝗛𝗮𝗹𝗼 𝗞𝗮𝗸 ${pushname} \n\n𝐍𝐀𝐌𝐀 : \n𝐔𝐌𝐔𝐑 :\n𝐆𝐄𝐍𝐃𝐄𝐑 : \n𝐀𝐒𝐀𝐋 :\n\n𝗦𝗲𝗺𝗼𝗴𝗮 𝗯𝗲𝘁𝗮𝗵 𝘆𝗮 𝗸𝗮𝗸☺𝗢𝗶𝗮,𝗷𝗮𝗻𝗴𝗮𝗻 𝗹𝘂𝗽𝗮 𝗯𝗮𝗰𝗮 𝗿𝘂𝗹𝗲𝘀 𝗴𝗿𝘂𝗽 𝗻𝘆𝗮 𝗱𝘂𝗹𝘂 𝘆𝗮 𝘀𝗲𝗯𝗲𝗹𝘂𝗺 𝗶𝗸𝘂𝘁 𝗻𝗶𝗺𝗯𝗿𝘂𝗻𝗴👍️`;
+            const outro = `𝗔𝗮𝗮𝗿𝗿𝗴𝗴𝗵𝗵😭 𝗕𝗲𝗯𝗮𝗻 𝗴𝗿𝘂𝗽 𝗧𝗲𝗹𝗮𝗵 𝗸𝗲𝗹𝘂𝗮𝗿😢 𝗸𝗮𝗹𝗮𝘂 𝗯𝗮𝗹𝗶𝗸 𝗹𝗮𝗴𝗶,𝗷𝗴𝗻 𝗹𝘂𝗽𝗮 𝗯𝗮𝘄𝗮 𝗴𝗼𝗿𝗲𝗻𝗴𝗮𝗻 𝗯𝘂𝗮𝘁 𝗮𝗻𝗴𝗴𝗼𝘁𝗮 𝗱𝗶𝘀𝗶𝗻𝗶,𝘀𝗶𝗽 𝗱𝗮𝗵 𝘆𝗮🤗`
             
             
           const sendButImage2 = async(id, text1, desc1, gam1, but = []) => {
